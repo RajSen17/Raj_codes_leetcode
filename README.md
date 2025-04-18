@@ -74,4 +74,8 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0152-maximum-product-subarray) |
+## String
+|  |
+| ------- |
+| [0038-count-and-say](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0038-count-and-say) |
 <!---LeetCode Topics End-->
