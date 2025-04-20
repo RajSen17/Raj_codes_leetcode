@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -44,6 +45,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0268-missing-number) |
