@@ -17,6 +17,7 @@
 | [0229-majority-element-ii](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0485-max-consecutive-ones) |
+| [0966-binary-subarrays-with-sum](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Search
 |  |
@@ -51,6 +52,7 @@
 | [0169-majority-element](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0268-missing-number) |
+| [0966-binary-subarrays-with-sum](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0966-binary-subarrays-with-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -90,4 +92,12 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0966-binary-subarrays-with-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0966-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
