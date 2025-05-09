@@ -40,6 +40,7 @@
 | [0231-power-of-two](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2383-add-two-integers](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2383-add-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
