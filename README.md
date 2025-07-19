@@ -158,4 +158,20 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0948-sort-an-array) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
