@@ -67,6 +67,7 @@
 | [0001-two-sum](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -118,6 +119,7 @@
 | [0014-longest-common-prefix](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0038-count-and-say) |
+| [0205-isomorphic-strings](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0205-isomorphic-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Union Find
 |  |
