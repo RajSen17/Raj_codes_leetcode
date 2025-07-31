@@ -120,6 +120,7 @@
 | [0020-valid-parentheses](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0038-count-and-say) |
 | [0205-isomorphic-strings](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0205-isomorphic-strings) |
+| [0812-rotate-string](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0812-rotate-string) |
 | [2032-largest-odd-number-in-string](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Union Find
 |  |
@@ -188,4 +189,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
