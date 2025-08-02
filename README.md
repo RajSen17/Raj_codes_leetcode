@@ -31,6 +31,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2689-rearranging-fruits](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Search
 |  |
@@ -80,6 +81,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2689-rearranging-fruits](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2689-rearranging-fruits) |
 ## Sorting
 |  |
 | ------- |
@@ -93,6 +95,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0948-sort-an-array](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0948-sort-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2689-rearranging-fruits](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Two Pointers
 |  |
@@ -197,6 +200,7 @@
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2689-rearranging-fruits](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2689-rearranging-fruits) |
 ## Trie
 |  |
 | ------- |
