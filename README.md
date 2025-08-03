@@ -30,6 +30,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2689-rearranging-fruits](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -41,6 +42,7 @@
 | [0268-missing-number](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1046-max-consecutive-ones-iii](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Matrix
@@ -149,6 +151,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Prefix Sum
 |  |
@@ -157,6 +160,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Enumeration
 |  |
