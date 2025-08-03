@@ -78,6 +78,7 @@
 | [0242-valid-anagram](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0424-longest-repeating-character-replacement](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -133,6 +134,7 @@
 | [0038-count-and-say](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0038-count-and-say) |
 | [0205-isomorphic-strings](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0812-rotate-string](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0812-rotate-string) |
 | [2032-largest-odd-number-in-string](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Union Find
@@ -143,6 +145,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1370-count-number-of-nice-subarrays) |
