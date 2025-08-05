@@ -55,6 +55,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0268-missing-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -64,6 +65,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0268-missing-number) |
