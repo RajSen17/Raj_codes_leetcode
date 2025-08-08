@@ -62,6 +62,7 @@
 | [0029-divide-two-integers](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0268-missing-number) |
+| [0826-soup-servings](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0826-soup-servings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2032-largest-odd-number-in-string](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -137,6 +138,7 @@
 | [0053-maximum-subarray](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0152-maximum-product-subarray) |
+| [0826-soup-servings](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0826-soup-servings) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## String
 |  |
@@ -245,4 +247,8 @@
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/3791-fruits-into-baskets-iii) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
