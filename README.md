@@ -66,6 +66,7 @@
 | [0231-power-of-two](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0268-missing-number) |
 | [0826-soup-servings](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0900-reordered-power-of-2) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2032-largest-odd-number-in-string](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -95,6 +96,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0900-reordered-power-of-2](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -112,6 +114,7 @@
 | [0242-valid-anagram](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0900-reordered-power-of-2](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0948-sort-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2689-rearranging-fruits](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2689-rearranging-fruits) |
@@ -137,6 +140,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0229-majority-element-ii) |
+| [0900-reordered-power-of-2](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0900-reordered-power-of-2) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -184,6 +188,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0900-reordered-power-of-2) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 ## Stack
 |  |
