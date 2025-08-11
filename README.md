@@ -35,6 +35,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2529-range-product-queries-of-powers](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -78,6 +79,7 @@
 | [0136-single-number](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0268-missing-number) |
+| [2529-range-product-queries-of-powers](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2529-range-product-queries-of-powers) |
 ## Recursion
 |  |
 | ------- |
@@ -185,6 +187,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2529-range-product-queries-of-powers](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2529-range-product-queries-of-powers) |
 ## Enumeration
 |  |
 | ------- |
