@@ -150,6 +150,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0152-maximum-product-subarray) |
 | [0826-soup-servings](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0826-soup-servings) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## String
 |  |
