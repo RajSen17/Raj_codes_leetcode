@@ -66,6 +66,7 @@
 | [0029-divide-two-integers](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0326-power-of-three) |
 | [0826-soup-servings](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0900-reordered-power-of-2) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0326-power-of-three) |
 ## Hash Table
 |  |
 | ------- |
