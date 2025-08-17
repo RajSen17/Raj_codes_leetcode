@@ -69,6 +69,7 @@
 | [0326-power-of-three](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0900-reordered-power-of-2) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -156,6 +157,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0152-maximum-product-subarray) |
 | [0826-soup-servings](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0867-new-21-game) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## String
@@ -180,6 +182,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0867-new-21-game](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -276,6 +279,7 @@
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0867-new-21-game) |
 ## Binary Indexed Tree
 |  |
 | ------- |
