@@ -25,6 +25,7 @@
 | [0485-max-consecutive-ones](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0679-24-game](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0679-24-game) |
 | [0940-fruit-into-baskets](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -68,6 +69,7 @@
 | [0268-missing-number](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0900-reordered-power-of-2) |
@@ -284,4 +286,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0493-reverse-pairs) |
+## Backtracking
+|  |
+| ------- |
+| [0679-24-game](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0679-24-game) |
 <!---LeetCode Topics End-->
