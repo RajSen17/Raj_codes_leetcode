@@ -12,6 +12,7 @@
 | [0056-merge-intervals](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0268-missing-number) |
@@ -289,5 +291,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0078-subsets) |
 | [0679-24-game](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0679-24-game) |
 <!---LeetCode Topics End-->
