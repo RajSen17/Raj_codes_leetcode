@@ -96,6 +96,7 @@
 | [0231-power-of-two](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0342-power-of-four) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2529-range-product-queries-of-powers](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2529-range-product-queries-of-powers) |
 ## Recursion
 |  |
