@@ -43,6 +43,7 @@
 | [2529-range-product-queries-of-powers](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3790-fruits-into-baskets-ii](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/3791-fruits-into-baskets-iii) |
@@ -66,6 +67,7 @@
 | [0074-search-a-2d-matrix](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Math
 |  |
