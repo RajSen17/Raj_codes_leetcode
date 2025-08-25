@@ -25,6 +25,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0493-reverse-pairs) |
+| [0498-diagonal-traverse](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0679-24-game](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0679-24-game) |
 | [0940-fruit-into-baskets](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0940-fruit-into-baskets) |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0498-diagonal-traverse](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -290,6 +292,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0498-diagonal-traverse) |
 | [3790-fruits-into-baskets-ii](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
