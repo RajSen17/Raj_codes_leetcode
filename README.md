@@ -20,6 +20,7 @@
 | [0152-maximum-product-subarray](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0029-divide-two-integers) |
+| [0204-count-primes](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0326-power-of-three) |
@@ -225,6 +227,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0900-reordered-power-of-2) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -319,4 +322,8 @@
 |  |
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
