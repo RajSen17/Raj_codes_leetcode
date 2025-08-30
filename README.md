@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -71,6 +72,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0498-diagonal-traverse](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -122,6 +124,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0205-isomorphic-strings) |
