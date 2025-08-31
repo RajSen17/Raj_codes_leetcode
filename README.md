@@ -212,6 +212,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0812-rotate-string) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Union Find
@@ -253,6 +254,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0020-valid-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
