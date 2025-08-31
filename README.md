@@ -142,6 +142,7 @@
 | [0940-fruit-into-baskets](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2689-rearranging-fruits](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2689-rearranging-fruits) |
 ## Sorting
@@ -187,6 +188,7 @@
 | [0229-majority-element-ii](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0900-reordered-power-of-2](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0900-reordered-power-of-2) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -217,6 +219,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0812-rotate-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Union Find
