@@ -118,6 +118,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0231-power-of-two](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0342-power-of-four) |
@@ -359,4 +360,8 @@
 |  |
 | ------- |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+## Linked List
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
