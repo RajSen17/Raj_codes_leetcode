@@ -163,6 +163,7 @@
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2689-rearranging-fruits](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2689-rearranging-fruits) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
 | ------- |
@@ -210,6 +211,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0900-reordered-power-of-2](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0900-reordered-power-of-2) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -247,6 +249,7 @@
 | [2346-largest-3-same-digit-number-in-string](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Union Find
 |  |
 | ------- |
