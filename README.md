@@ -160,6 +160,7 @@
 | [0940-fruit-into-baskets](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1006-vowel-spellchecker](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -246,6 +247,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0812-rotate-string) |
 | [1006-vowel-spellchecker](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2032-largest-odd-number-in-string) |
