@@ -48,6 +48,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -112,6 +113,7 @@
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2383-add-two-integers](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2383-add-two-integers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -300,6 +302,7 @@
 | [0020-valid-parentheses](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0020-valid-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -397,6 +400,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0204-count-primes) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Memoization
 |  |
 | ------- |
