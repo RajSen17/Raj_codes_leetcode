@@ -50,6 +50,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2429-design-a-food-rating-system](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2529-range-product-queries-of-powers) |
@@ -169,6 +170,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2429-design-a-food-rating-system](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2689-rearranging-fruits](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2689-rearranging-fruits) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
@@ -256,6 +258,7 @@
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2429-design-a-food-rating-system](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -309,6 +312,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0948-sort-an-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [2429-design-a-food-rating-system](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2429-design-a-food-rating-system) |
 ## Merge Sort
 |  |
 | ------- |
@@ -375,6 +379,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0493-reverse-pairs) |
+| [2429-design-a-food-rating-system](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Probability and Statistics
@@ -428,4 +433,8 @@
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/3462-vowels-game-in-a-string) |
+## Design
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2429-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
