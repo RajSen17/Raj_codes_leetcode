@@ -172,6 +172,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2429-design-a-food-rating-system](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2689-rearranging-fruits](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2689-rearranging-fruits) |
+| [3678-design-task-manager](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/3678-design-task-manager) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
@@ -313,6 +314,7 @@
 | [0948-sort-an-array](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0948-sort-an-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2429-design-a-food-rating-system](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/3678-design-task-manager) |
 ## Merge Sort
 |  |
 | ------- |
@@ -380,6 +382,7 @@
 | ------- |
 | [0493-reverse-pairs](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0493-reverse-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Probability and Statistics
@@ -437,4 +440,5 @@
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
