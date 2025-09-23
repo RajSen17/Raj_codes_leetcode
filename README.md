@@ -207,6 +207,7 @@
 | [0031-next-permutation](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0088-merge-sorted-array) |
+| [0165-compare-version-numbers](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0165-compare-version-numbers) |
 | [0349-intersection-of-two-arrays](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Divide and Conquer
@@ -251,6 +252,7 @@
 | [0014-longest-common-prefix](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0038-count-and-say) |
+| [0165-compare-version-numbers](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/RajSen17/Raj_codes_leetcode/tree/master/0424-longest-repeating-character-replacement) |
